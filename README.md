@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [The BTC App](https://github.com/DhRiTiD/The-BTC-App)
+- 🌱 I’m currently learning features on REACT NATIVE to imporve my skills
+
 <!--
 **DhRiTiD/DhRiTiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
