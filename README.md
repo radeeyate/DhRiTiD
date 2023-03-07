@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working to polish my skills in Python
 - 💬 Ask me about anything
-- 📫 How to reach me: here[→📧](dhritid1807@gmail.com)
+- 📫 How to reach me [→📧](dhritid1807@gmail.com)
 - 😄 Pronouns: she/her
 
 <!--
